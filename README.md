@@ -39,7 +39,7 @@ This program provided us with the resources, mentorship, and collaborative envir
 ---
 
 ## LinkedIn
-- [Naif Almalik](www.linkedin.com/in/naif-almalik-9213882a6)  
+- [Naif Almalik](https://www.linkedin.com/in/naif-almalik-9213882a6/)  
 - [Ahmad Algwaiz](https://www.linkedin.com/in/ahmad-algwaiz/)  
 - [Mohammed Alabdulmuhsin](https://www.linkedin.com/in/mohammadmusaad)  
 - [Ibrahim Alshayea](https://www.linkedin.com/in/ibrahim-alshaya-1b05902b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  

@@ -32,8 +32,18 @@ We are a team of software engineering and AI students selected for the **KAUST S
   Email: faisal11bander@gmail.com  
 
 **Mentor:** Dr. Salah Abdeljabar (KAUST)  
+Email: salah.abdeljabar@kaust.edu.sa  
 
 This program provided us with the resources, mentorship, and collaborative environment to bring this project from concept to working prototype.  
+
+---
+
+## LinkedIn
+- [Naif Almalik](www.linkedin.com/in/naif-almalik-9213882a6)  
+- [Ahmad Algwaiz](https://www.linkedin.com/in/ahmad-algwaiz/)  
+- [Mohammed Alabdulmuhsin](https://www.linkedin.com/in/mohammadmusaad)  
+- [Ibrahim Alshayea](https://www.linkedin.com/in/ibrahim-alshaya-1b05902b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- [Faisal Alwadie](https://www.linkedin.com/in/faisal-alwadie-b21180307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 
 ---
 

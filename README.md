@@ -73,9 +73,10 @@ We would like to express our gratitude to:
 ---
 
 ## Future Work
-We will add in-depth documentation on:  
-- OCR Module – setup, preprocessing, and performance analysis.  
-- LLM Module – enrichment pipeline, schema formatting, and example outputs.  
-- Flutter App – front-end code snippets and API integration details.  
+One of the main limitations we faced was the lack of public datasets to fine-tune or train an Optical Character Recognition (OCR) model, as well as the absence of reliable datasets for refining a Large Language Model (LLM). This limitation led us to adopt cloud-based solutions. Additionally, we found no comprehensive and reliable public database that could be used to enrich ingredient information during analysis.  
 
-Stay tuned for updates!  
+For future work, we aim to:  
+- Build a dedicated dataset to improve OCR performance.  
+- Train a YOLO-based text extractor to enhance OCR results.  
+- Fine-tune an LLM on a food products dataset.  
+- Construct a specialized ingredients database that can provide accurate and consistent information for the LLM to reference, making the system more robust and reliable. 
